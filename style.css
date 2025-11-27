@@ -601,3 +601,9 @@ a:hover {
         align-items: stretch;
     }
 }
+
+/* Iframes centering */
+iframe {
+    display: block;
+    margin: 0 auto;
+}
